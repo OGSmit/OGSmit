@@ -50,5 +50,5 @@ My Tech Stack:
 
 <h3>
 My Stats:
-</h3>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmit&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+</h3><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Stats"/>
 
