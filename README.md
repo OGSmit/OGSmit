@@ -57,12 +57,12 @@ My Contacts:
 </h3><p>
   <a href="mailto:og88tuf15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>: og88tuf15@gmail.com
+  </a>
 </p>
 <p>
   <a href="https://t.me/OGSmit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>: https://t.me/OGSmit
+  </a>
 </p>
 
 
