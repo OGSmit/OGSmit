@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Here comes Oleg
+<h1 align="center" >Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Here comes Oleg
 </h1>
 <h2>
 About me:
@@ -51,4 +51,18 @@ My Tech Stack:
 <h3>
 My Stats:
 </h3><img src="https://github-readme-stats.vercel.app/api?username=OGSmit&hide=stars" alt="Anurag's GitHub stats" alt="stats">
+
+<h3>
+My Contacts:
+</h3><p>
+  <a href="mailto:og88tuf15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>: og88tuf15@gmail.com
+</p>
+<p>
+  <a href="https://t.me/OGSmit">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>: https://t.me/OGSmit
+</p>
+
 
