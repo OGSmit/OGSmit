@@ -50,7 +50,5 @@ My Tech Stack:
 
 <h3>
 My Stats:
-</h3><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=OGSmit&hide=stars" alt="Anurag's GitHub stats">
-</a>
+</h3>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGSmit&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
