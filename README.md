@@ -50,7 +50,7 @@ My Tech Stack:
 
 <h3>
 My Stats:
-</h3><img src="https://github-readme-stats.vercel.app/api?username=OGSmit" alt="Anurag's GitHub stats" alt="stats">
+</h3><img src="https://github-readme-stats.vercel.app/api?username=OGSmit&stars=hide" alt="Anurag's GitHub stats" alt="stats">
 
 <h3>
 My Contacts:
